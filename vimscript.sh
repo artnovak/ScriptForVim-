@@ -6,6 +6,7 @@ echo  "Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }" >> ~/.vimrc
 echo  "\"colorschemes >>" ~/.vimrc
 echo  "Plug 'morhetz/gruvbox'" >> ~/.vimrc
 echo  "call plug#end()" >> ~/.vimrc
+echo  "colorscheme gruvbox" >> ~/.vimrc
 echo  "syntax on" >> ~/.vimrc
 echo  "set background=dark" >> ~/.vimrc
 echo  "set number" >> ~/.vimrc
