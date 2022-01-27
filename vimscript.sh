@@ -19,7 +19,7 @@ echo "File .vimrc is ready to open"
 read -p "do you want to open it?(y/n) " x
 if [ $x = y ] 
   then
-    vim ~/hw/.vimrc 
+    vim ~/.vimrc 
 else [ $x = n ] 
  echo "You can manage your vimrc file here ~/.vimrc"
 fi 
