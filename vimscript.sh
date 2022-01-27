@@ -24,4 +24,5 @@ else [ $x = n ]
  echo "You can manage your vimrc file here ~/.vimrc"
 fi 
 
+echo "You need to do it yourself, open file ~/.vimrc. write command: 'source ~/.vimrc' and another one 'PlugInstall' after that everything is ready to work"
 
